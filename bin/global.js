@@ -11,4 +11,4 @@ var FILE_OUTPUT = args[3];
 
 var pickyScrape = require('../lib/index.js');
 
-pickyScrape.start(URL, SELECTOR, FILE_OUTPUT)
+pickyScrape.start(URL, SELECTOR, ELEMENT_INDEX ,FILE_OUTPUT)
