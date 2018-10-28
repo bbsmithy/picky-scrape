@@ -1,6 +1,6 @@
 {
     "name": "picky-scrape",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Node.js CLI program for picky part of a site, extracting plain html and writing it to file",
     "author": "bbsmithy",
     "dependencies": {
